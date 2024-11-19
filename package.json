@@ -52,7 +52,7 @@
     "url-parse": "1.5.10",
     "vue-cli-plugin-vuetify": "2.5.0",
     "vue-js-modal": "2.0.1",
-    "vue-property-decorator": "8.4.2",
+    "vue-property-decorator": "9.1.2",
     "vue-router": "3.2.0",
     "vue-template-compiler": "2.7.14",
     "vuetify": "2.6.14",
